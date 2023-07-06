@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "module": "commonjs",
+        "sourceMap": true,
+        "outDir": "out",
+        "strict": true,
+        "lib": [
+            "esnext.asynciterable",
+            "esnext",
+            "dom"
+          ],
+    }
+}
